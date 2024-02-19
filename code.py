@@ -1,6 +1,6 @@
-# George Hany
+# My Name : George Hany
 # Write a program to check if the given number is a palindrome number.
-# A palindrome number is a number that is the same after reverse. For example, 545, is the palindrome numbers.
+# A palindrome number is a number that is the same after reverse.
 
 # input the number from the user
 num = input('The number is : ')
@@ -19,4 +19,3 @@ if flag:
     print('Yes, given number is palindrome number')
 else:
     print('No,  given number is not palindrome number')
-    
